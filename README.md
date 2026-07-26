@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I build full-stack products end to end — frontend, backend, and the AWS/DevOps
+I build full-stack products end to end - frontend, backend, and the AWS/DevOps
 plumbing that keeps them running.
 
 I'm based in India, work well async, and I'm currently open to
